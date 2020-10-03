@@ -117,5 +117,8 @@ Name: [Muhammad Iqbal R](https://github.com/miqbalrr) <br/>
 Place: Indonesia <br/>
 About: BACKEND Developer <br/>
 
+Name: [Danny Wong](https://github.com/dwongdev) <br/>
+Place: Australia <br/>
+About: Electrical Engineer <br/>
 
 
